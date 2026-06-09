@@ -20,7 +20,7 @@ A powerful, user-friendly GUI-based tool to scrape business information from Goo
 
 1. **Clone the repository** (or download the script):
    ```bash
-   git clone https://github.com/your-username/gmaps-scraper.git
+   git clone https://github.com/LalitGeek/gmaps-scraper.git
    cd gmaps-scraper
    ```
 
